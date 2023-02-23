@@ -7,7 +7,7 @@
 
   <packaging>jar</packaging>
 
-  <name>ti2_006</name>
+  <name>ti006</name>
   <url>http://maven.apache.org</url>
 
   <properties>

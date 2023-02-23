@@ -7,7 +7,7 @@ public class AppTest2 {
     @Test
     public void testApp() {
         // From Maven
-        System.out.println("***surefire.java.version = " + System.getProperty("surefire.application.password"));
+        System.out.println("***surefire.java.version= " + System.getProperty("surefire.application.password"));
         // From OS
         System.out.println("***System.getenv(\"JAVA_HOME\") = " + System.getenv("JAVA_HOME"));
         System.out.println("***System.getenv(\"DEFAULT_PASS\") = " + System.getenv("DEFAULT_PASS"));
