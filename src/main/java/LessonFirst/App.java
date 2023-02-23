@@ -1,4 +1,4 @@
-package com.softserve.edu;
+package LessonFirst;
 
 public class App { // extends Object
     private int i = 123;
